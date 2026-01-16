@@ -35,7 +35,7 @@ This approach aims to exploit structural and perceptual commonalities across mus
 
 ## Tools (planned)
 
-- **Python** (NumPy, pandas)
+- **Python** (NumPy, pandas, matplotlib)
 - **Essentia** (audio feature extraction, spectral and temporal descriptors)
 - **Symbolic music processing** (MIDI-based representations)
 - **Music Information Retrieval (MIR) techniques**
