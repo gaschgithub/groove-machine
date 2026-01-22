@@ -42,6 +42,13 @@ This approach aims to exploit structural and perceptual commonalities across mus
 - **Sonic Visualiser** (analysis and validation)
 - Optional: **machine learning methods** (clustering or generative modeling)
 
+### Related Work
+
+This project is informed by previous research on spectral similarity analysis, **CSpectra2021**, which explores the comparison of audio signals using spectral descriptors in REAPER-based workflows.
+
+Reference repository:
+https://github.com/mat2021/CSPECTRA2021
+
 ---
 
 ## References
