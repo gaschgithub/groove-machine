@@ -44,14 +44,10 @@ This approach aims to exploit structural and perceptual commonalities across mus
 
 ### Related Work
 
-This project is informed by previous research on spectral similarity analysis, **CSpectra2021**, which explores the comparison of audio signals using spectral descriptors in REAPER-based workflows.
+- This project is informed by previous research on spectral similarity analysis, **CSpectra2021**, which explores the comparison of audio signals using spectral descriptors in REAPER-based workflows.
 
 Reference repository:
 https://github.com/mat2021/CSPECTRA2021
-
----
-
-## References
 
 - Toussaint, G. (2002). A mathematical analysis of African, Brazilian and Cuban clave rhythms. Bridges:
 Mathematical Connections in Art, Music, and Science, 157–168. January 8, 2025, from: https://archive.bridgesmathart.org/2002/bridges2002-157.html#gsc.tab=0
