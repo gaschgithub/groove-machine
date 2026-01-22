@@ -21,7 +21,7 @@ In theory, the groove machine would:
 - Perform **spectral analysis** to relate timbral characteristics to specific rhythmic functions within a groove.
 - Use the extracted information to enable **new groove generation**, informed by the analyzed references.
 
-Given sufficient reference material, the system should be able to analyze grooves from different musical traditions and generate new, stylistically informed variations.
+Given sufficient reference material, the system should be able to analyze grooves from different musical traditions and generate new variations.
 
 ---
 
